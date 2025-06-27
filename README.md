@@ -1,13 +1,11 @@
 # Statistical Analysis
 A collection of practical Statistical Analysis projects — covering key concepts, real-world data, and beginner-friendly insights for data-driven decision-making.
 
-[Supervised Learning Projects](https://github.com/tajamulkhann/Machine-Learning/tree/main/Supervised%20Learning%20Projects)
+[Statistical Analysis Projects](https://github.com/tajamulkhann/Statistical-Analysis/tree/main/Statistical%20Analysis%20Projects)
 
-[Unsupervised Learning Projects](https://github.com/tajamulkhann/Machine-Learning/tree/main/Unsupervised%20Learning%20Projects)
-
-## Copyright ©
-
-Machine Learning Projects Completed by [Tajamul Khan](https://www.linkedin.com/in/tajamulkhann/)
+## Get My Free eBook  
+**Download here 👉 [https://topmate.io/tajamulkhan/1113745](https://topmate.io/tajamulkhan/1113745)**  
+[<img src="https://github.com/user-attachments/assets/b08fb097-0b48-4092-89bf-2bab030ada7e" width="600"/>](https://topmate.io/tajamulkhan/1113745)
 
 ## Support my Work
 If my work has helped you, I’d truly appreciate your support!
