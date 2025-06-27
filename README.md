@@ -1,12 +1,24 @@
+# Statistical Analysis
+A collection of practical Statistical Analysis projects — covering key concepts, real-world data, and beginner-friendly insights for data-driven decision-making.
+
+[Supervised Learning Projects](https://github.com/tajamulkhann/Machine-Learning/tree/main/Supervised%20Learning%20Projects)
+
+[Unsupervised Learning Projects](https://github.com/tajamulkhann/Machine-Learning/tree/main/Unsupervised%20Learning%20Projects)
+
 ## Copyright ©
 
-Project Completed by [Tajamul Khan](https://github.com/tajamulk2)
-* For More Projects like this. Check out my [GitHub](https://github.com/tajamulk2)
-* Let's connect over [Linked In](https://www.linkedin.com/in/tajamulk2/)
+Machine Learning Projects Completed by [Tajamul Khan](https://www.linkedin.com/in/tajamulkhann/)
 
 ## Support my Work
+If my work has helped you, I’d truly appreciate your support!
 
-If my work benefits you, you can support me here 👇 
+![Untitled design (10)](https://github.com/user-attachments/assets/127762f6-edae-4bea-989a-5296cf161ed3) 
 
-<a href="https://www.buymeacoffee.com/tajamulk2"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=&slug=tajamulk2&button_colour=ffdd00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>  
-
+## Let's Connect <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="30px" style="max-width:100%;">
+  <a href="https://www.linkedin.com/in/tajamulkhann/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://https://www.instagram.com/tajamulkhannn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://substack.com/@tajamulkhan"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"></a>
+  <a href="https://medium.com/@tajamulkhan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://www.kaggle.com/tajamulkhan"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
+  <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
+  <a href="https://github.com/tajamulkhann"><img src="https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white"></a>
