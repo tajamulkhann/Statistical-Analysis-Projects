@@ -1,7 +1,8 @@
 # Statistical Analysis
 A collection of practical Statistical Analysis projects — covering key concepts, real-world data, and beginner-friendly insights for data-driven decision-making.
 
-[Statistical Analysis Projects](https://github.com/tajamulkhann/Statistical-Analysis/tree/main/Statistical%20Analysis%20Projects)
+[Data Statistician](https://github.com/tajamulkhann/Data-Statistician)
+[Statistical Analysis Projects](https://github.com/tajamulkhann/Statistical-Analysis-Projects)
 
 ## Get My Free eBook  
 **Download here 👉 [https://topmate.io/tajamulkhan/1113745](https://topmate.io/tajamulkhan/1113745)**  
@@ -20,3 +21,4 @@ If my work has helped you, I’d truly appreciate your support!
   <a href="https://www.kaggle.com/tajamulkhan"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
   <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
   <a href="https://github.com/tajamulkhann"><img src="https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white"></a>
+
