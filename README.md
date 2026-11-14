@@ -1,6 +1,6 @@
 # Statistical Analysis
 
-<img width="1280" height="720" alt="Default (4)" src="https://github.com/user-attachments/assets/99c52039-b3ea-42a0-a4fd-f72a25c453c3" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6d7010ea-7e4f-4f27-a9d9-1a2a8e1ed3b7" />
 
 A collection of practical Statistical Analysis projects — covering key concepts, real-world data, and beginner-friendly insights for data-driven decision-making.
 
